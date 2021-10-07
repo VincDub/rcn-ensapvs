@@ -1,0 +1,111 @@
+body {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#fond {
+    height:100vh;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 200px 1000px;
+    grid-template-rows: 50px auto;
+    column-gap: 50px;
+}
+
+#contenu {
+    height: 100vh;
+    width: 1100px;
+}
+
+#section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#banniere {
+    grid-row: 1;
+    grid-column: 1;
+    padding-left: 10px;
+    /*overflow-y: scroll;*/
+    /*background-color: rgb(230,230,230);*/
+    border-right: 3px solid rgb(120,0,0);
+    height:inherit;
+}
+
+h1,h2,li {
+    font:  16px "Fira Sans", sans-serif;
+    text-align: left;
+    
+}
+
+#titre {
+    color: rgb(120,0,0);
+    border-bottom: 2px solid rgb(120,0,0);
+}
+
+h1 {
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid rgb(0,0,0);
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+}
+
+  
+li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#banniere > ul > li:hover {
+    font-weight: bold;
+    text-decoration: underline;
+    transition-duration: 0.1s;
+}
+
+
+/* Contenu */ 
+
+.ctn {
+    width: 1000px;
+    margin-bottom: 50px;
+}
+
+.tuto {
+    display: grid;
+    grid-template-columns: 450px auto;
+    grid-template-rows: 250px;
+    margin-bottom: 20px;
+}
+
+.tuto > ul {
+    grid-row: 1;
+    grid-column: 2;
+    float:right;
+    margin: 0px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.tuto > iframe {
+    grid-row: 1;
+    grid-column: 1;
+    width: 450px;
+    height: 100%;
+}
