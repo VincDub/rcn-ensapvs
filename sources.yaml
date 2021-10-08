@@ -1,0 +1,191 @@
+Revit :
+  Vues:
+    Options graphiques:
+      KnwlUt04Nig:
+        - Présentation des différents styles visuels
+
+      ipxwMZVtlLE:
+        - Options d'affichages (ombres/etc...)
+        - Remplacement de lignes spécifiques (outil "Traits")
+        - Configuration des matériaux pour contrôler l'apparence d'éléments
+        - Lignes de détail
+        - Remplacement des options de visibilité/graphismes dans une vue
+
+      3kfBpn2kSLw:
+        - Lignes de silhouette
+        - Ombres portées/ambiantes en élévation
+        - Profondeur de vue (pour élévations/coupes uniquement)
+      
+      iM2D9hlu_ek:
+        - Utilisation avancée de l'outil "Traits"/"Linework"
+
+    Niveaux:
+      ufzjkyVhx-Q:
+       - Créer de nouveaux niveaux
+       - Modifier les étiquettes de niveaux existantes
+      ZzvAeCdY7Ug:
+       - Créer sa propre étiquette de niveaux
+
+    Plans:
+      1Sfz7GEIszI:
+        - Régler la plage de la vue d'un plan en profondeur
+        - Régler la plage de la vue d'un plan en hauteur
+        - Ajuster la hauteur de coupe en plan
+
+      O-l5fYFSfSs:
+        - Ajuster le style des lignes des éléments visibles en profondeur
+
+    Feuilles:
+      Ctdedc6psOA:
+        - Créer une feuille
+        - Insérer des vues à l'échelle sur une feuille
+
+  Volumes:
+    Modélisation:
+      VjNzUUUPDfk:
+        - Contrôle des dimensions
+        - Créer des vides
+        - Créer des surfaces
+        - Editer les arêtes/sommets
+      
+      pjJTYkrIq6g:
+        - Traçage des emprises de volumes sur les faces d'un volume existant
+        - Placement et utilisation des plans de construction
+        - Jointure de deux volumes
+
+    Autres:
+      GCRAkwOkVeU:
+        - Différences entre volumes in-situ et composants in-situ
+
+  Import Export:
+    PDF:
+      BGyv19UAdV0:
+        - Exporter une vue au format PDF (Revit 2022)
+        - Exporter une feuille/un lot de feuilles au format PDF (Revit 2022)
+      d3qxCCFr1uY:
+        - Exporter sur des fichiers séparés au format PDF (Revit 2022)
+      HxN7iFYNMmI:
+        - Exporter une vue au format PDF vectorisé (Revit 2021 et antérieur)
+
+    JPEG/PNG:
+      njflehRwEr0:
+        - Exporter des vues sous formes d'images (JPEG/PNG/TIFF)
+
+  Escaliers:
+    Modélisation:
+      aEu0lwHmPPQ:
+        - Construire des escaliers simples (volée droite) et des paliers de repos
+        - Définir les contraintes (largeur/niveaux d'arrivée et de départ)
+        - Définir la hauteur et la profondeur de marche (le giron)
+      oYBzpTacMCQ:
+        - Escaliers par esquisse volées incurvées
+      XjqvQMvYT6Y:
+        - Escaliers par esquisse monumentaux
+
+    Rampes:
+      0MW_4PJJxho:
+        - Construction de rampes droites et incurvées
+
+    Garde-Corps:
+      mJd-NGfHiNg:
+        - Créer des garde-corps pleins sur des escaliers
+        - Créer des garde-corps pleins sur des rampes    
+      dR3w8OsD9DA:
+        - Créer des garde-corps en verre (simplifiés)
+      BBg38oz5CII:
+        - Créer sa propre famille de garde corps
+
+
+    Représentation:
+      cklvdap5lec:
+        - Ajuster la représentation en plan des escaliers (ligne de coupe/pointillés/flèche)    
+      _jiexIRwYEc:
+        - Ajuster la jonction escalier/dalle
+
+  Structure:
+    Grilles:
+      9TAob2gbqAc:
+        - Changer la couleur du texte et la taille des bulles des axes
+      mLWu2L-2aS8:
+        - Bases du placement et modification des grilles
+
+    Cotes:
+      5SdzaAcdgB4:
+        - Bases des cotes
+
+    Murs porteurs:
+      RxrbPdrFff0:
+        - Création d'un mur multi-couches
+        - Attribution des fonctions de chaque couche (structure/isolation/finition)
+        - Ajout d'éléments linéaires (acrotères/etc...)
+      kIbe3509On0:
+        - Ajuster une connexion mur/dalle    
+      f-_PDgtpWcw:
+        - Corriger une connexion complexe mur/poutre/dalle    
+      d4bciZdfe_k:
+        - Création d'un mur avec du fruit (incliné)
+
+    Poteaux/Poutres:
+      T3d7VGxW_bY:
+        - Création de poteaux et poutres en béton
+      nGf8a5qUy-Q:
+        - Création de poteaux et poutres en acier
+
+    Poutres (avancé):
+      cclBKWCXP7M:
+        - Création d'un réseau de poutres structure acier
+      lBGaMTiw7tc:
+        - Création d'un réseau de poutres structure bois
+        - Découpe de poutres inclinées
+      t_dm518CJ8o:
+        - Poutres à formes complexes
+      4_jpb7iJZuo:
+        - Jonctions poteaux/poutres
+        - Jonctions poutres/poutres
+
+    Poteaux (avancé):
+      yATDd0hmSuM:
+        - Création de poteaux inclinés
+        - Création de poteaux à géométrie complexe
+
+    Treillis 2D/3D:
+      9Jglvy7q-UM:
+        - Modélisation de poutres treillis 2D personnalisées
+      PpP_RoOcAsw:
+        - Modélisation d'un treillis 2D/3D personnalisé
+      9lXr-lUbeLk:
+        - Création d'un composant de toiture en treillis 3D
+        - Placement automatique sur une toiture à géométrie complexe
+      viYsZgyTFRs:
+        - Création de fermes en treillis
+        - Création de fermes droites
+
+    Planchers:
+      YCjIkSW7Qew:
+        - Ajuster la géométrie d'une dalle béton
+        - Création de planchers collaborants
+        - Création de planchers multi-couches
+        - Attribution des fonctions de chaque couche (structure/isolation/finition)
+
+    Details:
+      FmjpCous9IQ:
+        - Création d'un détail
+        - Ajout de composants de détail 2D
+      I_tsRXogbvQ:
+        - Ajout d'un profil de coupe en croix aux éléments structurels en bois
+      VHWGVOpD0gk:
+        - Savoir quand il est préférable de modéliser, et quand il vaut mieux ajouter un composant 2D
+
+    Filtres :
+      qwBgYUVMuFk:
+        - Création et application de filtres conditionnels
+      h8aFDQ0xHx0:
+        - Affichage précis des couches d'un mur dans une vue
+        - Filtrage de la couche structurelle des murs dans une vue
+      e6XGHj89L0A:
+        - Création et application de filtres de sélection
+        - Création et application de filtres conditionnels
+
+    Axonométrie éclatée:
+      pwA9_bV074Y:
+        - Création d'une axonométrie éclatée
