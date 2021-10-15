@@ -52,6 +52,12 @@ Revit :
         - Traçage des emprises de volumes sur les faces d'un volume existant
         - Placement et utilisation des plans de construction
         - Jointure de deux volumes
+      
+      tcRuhihU7tc:
+        - Création de formes organiques par profils
+
+      aRIPgAGJO40:
+        - Construction d'éléments de projet (dalles/façades/murs-rideaux/toitures) à partir d'un volume in situ
 
     Autres:
       GCRAkwOkVeU:
@@ -159,6 +165,28 @@ Revit :
       viYsZgyTFRs:
         - Création de fermes en treillis
         - Création de fermes droites
+      5AbLHiQEjYk:
+        - Création d'une poutre treillis triangulaire paramétrique
+      JINN1poPuDc:
+        - Création d'une nappe de treillis 3D sur une face de volume conceptuel
+      igvemhiBp3U:
+        - Modélisation d'un treillis spatial
+
+    Coques:
+      l_rQS1dc4ms:
+        - Modéliser une coque à partir de points de référence (volumes in situ)
+        - Intersections de volumes
+
+    Structures tendues:
+      ZREQD-7jqKE:
+        - Modélisation d'une structure tendue avec une nappe de points (volumes in situ)
+
+      rwAGCpgntAY:
+        - Modélisation d'une structure tendue par profils
+        
+      5emVtUZ08yk:
+        - Créer un composant de structure tendue à 4 points
+
 
     Planchers:
       YCjIkSW7Qew:
