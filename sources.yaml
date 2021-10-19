@@ -40,8 +40,8 @@ Revit :
         - Créer une feuille
         - Insérer des vues à l'échelle sur une feuille
 
-  Volumes:
-    Modélisation:
+  Volumes et Composants In Situ:
+    Volumes In Situ:
       VjNzUUUPDfk:
         - Contrôle des dimensions
         - Créer des vides
@@ -58,6 +58,12 @@ Revit :
 
       aRIPgAGJO40:
         - Construction d'éléments de projet (dalles/façades/murs-rideaux/toitures) à partir d'un volume in situ
+
+    Composants In Situ:
+      C4qcDURohyw:
+        - Présentation des différents outils de modélisation des composants in-situ (extrusion/raccordement/etc...)
+      Sazs9pw8YSA:
+        - Exemple d'un modèle construit en combinant solides et vides
 
     Autres:
       GCRAkwOkVeU:
