@@ -129,13 +129,19 @@ Revit :
       RxrbPdrFff0:
         - Création d'un mur multi-couches
         - Attribution des fonctions de chaque couche (structure/isolation/finition)
-        - Ajout d'éléments linéaires (acrotères/etc...)
+        - Ajout d'éléments linéaires (couvertines/etc...)
       kIbe3509On0:
         - Ajuster une connexion mur/dalle    
       f-_PDgtpWcw:
         - Corriger une connexion complexe mur/poutre/dalle    
       d4bciZdfe_k:
         - Création d'un mur avec du fruit (incliné)
+      lc0u10qB0j8:
+        - (4min30 - 7min44) Gestion des retournements de murs (extérieurs et intérieurs)
+        - (4min30 - 7min44) Choisir les couches du mur à retourner
+      CidPorg16ik:
+        - Création d'une couvertine personnalisée
+        - Placement de couvertine (méthode par relief, et pas intégrée dans le type de mur)
 
     Poteaux/Poutres:
       T3d7VGxW_bY:
@@ -223,3 +229,30 @@ Revit :
     Axonométrie éclatée:
       pwA9_bV074Y:
         - Création d'une axonométrie éclatée
+
+  Enveloppe et façades:
+    Façades à panneaux:
+      8VWS1G6AYro:
+        - Créer une façade calepinée par reliefs/creux sur un mur
+        - Créer une façade calepinée par division de face
+        - Créer une façade calepinée avec un mur rideau
+      CaS5h5iAPPQ:
+        - Création d'ouvertures hors calepinage dans une façade calepinée par mur rideau
+        - Composition avec plusieurs types de panneaux
+      NaG0JR8lQ38:
+        - Créer des profilés personnalisés pour la structure des panneaux
+      
+    Fenêtres:
+      U6Hc26vqTO4:
+        - Créer une famille de fenêtre Revit paramétrique simplifiée
+
+    Murs rideaux:
+      sGXPQmwq0wE:
+        - Placement et configuration des murs rideaux
+        - Intégration dans un mur existant
+        - Ajout/Suppression des lignes de calepinage
+        - Ajout/Suppression/Modification des meneaux
+
+      9Q753TjR4ow:
+        - Charger des familles de portes pour mur rideau
+        - Placer une porte dans un mur rideau

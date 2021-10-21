@@ -30,7 +30,7 @@ body {
     grid-row: 1;
     grid-column: 1;
     padding-left: 10px;
-    /*overflow-y: scroll;*/
+    overflow-y: scroll;
     /*background-color: rgb(230,230,230);*/
     border-right: 3px solid rgb(120,0,0);
     height:inherit;
