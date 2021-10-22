@@ -40,6 +40,18 @@ Revit :
         - Créer une feuille
         - Insérer des vues à l'échelle sur une feuille
 
+    Perspective:
+      9VV0A6OJHZM:
+        - Créer une vue en perspective
+        - Gérer les paramètres de base (réglage de l'élévation et du cadre)
+      5ycwj7wJqT4:
+        - Personnaliser le fond d'une perspective
+      UnrFOB8bWas:
+        - Régler la focale d'une vue en perspective 
+      9drRMNcLTao:
+        - Comprendre la différence entre les vues en perspective et en axonométrie
+    
+
   Volumes et Composants In Situ:
     Volumes In Situ:
       VjNzUUUPDfk:
@@ -82,6 +94,8 @@ Revit :
     JPEG/PNG:
       njflehRwEr0:
         - Exporter des vues sous formes d'images (JPEG/PNG/TIFF)
+      ldXndQhMNsE:
+        - Importer un fichier image dans une vue Revit (marche aussi avec les PDF)
 
   Escaliers:
     Modélisation:
@@ -256,3 +270,15 @@ Revit :
       9Q753TjR4ow:
         - Charger des familles de portes pour mur rideau
         - Placer une porte dans un mur rideau
+
+Photoshop:
+  Détourer un élément:
+    Élements simples (paysages, fonds, objets simples):
+      I4f14Me66Bg:
+        - Détourer un élément simple par sélection rapide
+        - Détourer un élément simple par canaux
+        - Détourer un élément simple avec l'outil plume
+    Éléments complexes (arbres, cheveux):
+      v-Yg-dJISeU:
+        - Détourer un élément complexe par "blend"
+        - Détourer un élément complexe par canaux
