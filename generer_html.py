@@ -19,7 +19,6 @@ for logiciel,sources in sources_yaml.items():
 
         liste_sous_sections_html = []
         sous_sections_html = []
-
         for sous_section,liste_tutos in contenu.items():
             id_sous_section = str.casefold(sous_section).replace(" ","_")
             liste_sous_sections_html.append(

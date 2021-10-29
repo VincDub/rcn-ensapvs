@@ -50,7 +50,15 @@ Revit :
         - Régler la focale d'une vue en perspective 
       9drRMNcLTao:
         - Comprendre la différence entre les vues en perspective et en axonométrie
-    
+  
+  Végétation et Personnages:
+    Personnages:
+      VjcLw-vSZ_o:
+        - Créer une famille de personnages personnalisée à partir d'un fichier DWG
+        - Créer un paramètre permettant de choisir le type de personnage à placer
+      wksoq96n5bk:
+        - Créer des personnages sous forme de silhouettes avec ombre pour les vues en 3D à partir d'une famille RPC
+        - Créer un paramètre de gestion de l'apparence (silhouette/RPC/silhouette détaillée)
 
   Volumes et Composants In Situ:
     Volumes In Situ:
@@ -96,6 +104,10 @@ Revit :
         - Exporter des vues sous formes d'images (JPEG/PNG/TIFF)
       ldXndQhMNsE:
         - Importer un fichier image dans une vue Revit (marche aussi avec les PDF)
+
+    DWG/DXF:
+      3V_0jaOZJuc:
+        - Exporter une vue sous forme de fichier DWG
 
   Escaliers:
     Modélisation:
@@ -282,3 +294,24 @@ Photoshop:
       v-Yg-dJISeU:
         - Détourer un élément complexe par "blend"
         - Détourer un élément complexe par canaux
+
+Illustrator:
+  
+  Modification de documents vectorisés:
+    Édition de tracés:
+      kKRFV_NMHAg:
+        - Sélection de tracés d'apparence similaire
+        - Placement des tracés au sein de calques séparés
+      
+    Ajout de personnages:
+      fdO2mYsapZA:
+        - Ajout de personnages depuis un fichier source (en .AI)
+    
+  Divers:
+    Astuces et outils:
+      2XVwpZBauDA:
+        - Astuces pour mieux travailler avec Illustrator
+        - Organisation des calques
+        - Techniques d'isolation d'objets
+        - Techniques de sélection rapide d'objets similaires
+        - Remplissage intelligent
