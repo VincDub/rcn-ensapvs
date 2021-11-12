@@ -50,6 +50,18 @@ Revit :
         - Régler la focale d'une vue en perspective 
       9drRMNcLTao:
         - Comprendre la différence entre les vues en perspective et en axonométrie
+
+  Topographie et Site:
+    Cartographie:
+      VT5X5cW4eao:
+        - Construction d'un plan de situation au format vectoriel en trois méthodes
+        - Utilisation de CADMapper via format DXF (AutoCAD)
+        - Utilisation d'OpenStreetMaps via format SVG (Illustrator + AutoCAD)
+        - Utilisation de GoogleMaps via format JSON (Illustrator + AutoCAD)
+    Modélisation de site:
+      igu8DC4lvaU:
+        - Génération d'un modèle 3D de terrain sur CADMapper
+        - Import et construction de la topographie, des routes et des bâtiments sur Revit
   
   Végétation et Personnages:
     Personnages:
