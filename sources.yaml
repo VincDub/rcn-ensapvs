@@ -327,3 +327,34 @@ Illustrator:
         - Techniques d'isolation d'objets
         - Techniques de sélection rapide d'objets similaires
         - Remplissage intelligent
+
+QGIS:
+  Bases et données:
+    Téléchargement et import de données:
+      QhYe6ZfUGJ8:
+        - Téléchargement de données ouvertes
+        - Open Data de l'APUR
+        - Open Data de l'IGN (ancien site)
+      L7eEUl2sLtM:
+        - Import de données vectorisées (SHP/GeoJSON/etc...)
+        - Import de données raster
+
+    Interface:
+      VRSNRzIN33k:
+        - Principales fonctionnalités de l'interface de QGIS
+        - Identification d'entités
+        - Tableau d'attributs
+        - Boîte à outils
+
+    Export:
+      E-rMGM-Pxzc: 
+        - Export d'une carte entière ou cadrée au format DXF
+        - Export d'une sélection nommée au format DXF
+
+  Modélisation de site:
+    Courbes topographiques:
+      tZJIKUzIUrE:
+        - Import des données topographiques de l'IGN dans QGIS
+        - Téléchargement via FileZilla (client FTP)
+        - Génération des courbes topographiques depuis un MNT (Modèle Numérique de Terrain)
+    
