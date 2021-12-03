@@ -72,6 +72,17 @@ Revit :
         - Créer des personnages sous forme de silhouettes avec ombre pour les vues en 3D à partir d'une famille RPC
         - Créer un paramètre de gestion de l'apparence (silhouette/RPC/silhouette détaillée)
 
+    Arbres:
+      5g2wI5wZkVQ:
+        - Notions de base concernant les arbres sous Revit
+      uz5bxVikt_0:
+        - Création d'une famille d'arbres basée sur une famille RPC
+        - Remplacement de l'apparence en plan/élévation par des blocs DWG 2D
+      YLXcVFABcdA:
+        - Famille d'arbres paramétriques intégrant des représentations 2D et un modèle 3D (RPC ou modèle simple)
+        - Liens disponibles pour le téléchargement de la famille et le tutoriel
+      
+
   Volumes et Composants In Situ:
     Volumes In Situ:
       VjNzUUUPDfk:
