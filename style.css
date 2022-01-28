@@ -78,6 +78,7 @@ li {
     font-weight: bold;
     text-decoration: underline;
     transition-duration: 0.1s;
+    cursor: pointer;
 }
 
 

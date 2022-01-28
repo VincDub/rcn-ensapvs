@@ -368,4 +368,97 @@ QGIS:
         - Import des données topographiques de l'IGN dans QGIS
         - Téléchargement via FileZilla (client FTP)
         - Génération des courbes topographiques depuis un MNT (Modèle Numérique de Terrain)
+
+Enscape:
+  Introduction et généralités:
+    Installation:
+      6DKmmuycmws:
+        - Détail des cartes graphiques compatibles (minimales et recommandées)
+      K1QhwWhawBk:
+        - Processus d'installation d'Enscape (sous Windows)
+      
+    Interface:
+      dCJC_ifnpWU:
+        - Présentation générale de l'interface d'Enscape v.3
+      T_8xZ4UwFVA:
+        - Présentation de l'interface d'Enscape côté Revit
     
+    Déplacement et vues:  
+      vMFZcuXUb9A:
+        - Contrôles de déplacement
+        - Mode vol et mode piéton
+
+      jckp3RlcCzg:
+        - Navigation entre les différentes vues créées sur Revit
+        - Création de nouvelles vues sur Enscape et enregistrement vers Revit
+    
+    Astuces:
+      2BUSRem78sQ:
+        - Accès à la documentation de base officielle
+      DwsHY_DXQhE:
+        - Configuration de la perspective à deux points de fuite
+        - Atténuer l'éclairage du soleil direct
+        - Ajout d'une skybox HDRI (avec ressources gratuites)
+      
+
+  Ressources:
+    Matériaux:
+      34H8qUEMNP8:
+        - Configuration basique de matériaux depuis Revit pour Enscape
+
+      stXYGtfbJQ0:
+        - Présentation de la bibliothèque de matériaux d'Enscape
+        - Utilisation de l'éditeur de matériaux pour Revit
+        - Réglages de matériaux avancés (relief, transparence, etc.)
+      
+      0_39q4sl6yA:
+        - Configuration des matériaux pour SketchUp
+    
+    Objets:
+      o-3RJzYn_OM:
+        - Placement d'objets provenant de la bibliothèque de ressources Enscape dans un projet Revit
+        - <i><b>/!\</b> Ces objets sont importés dans la catégorie <b>plantes</b> dans Revit. Important à savoir si l'on souhaite contrôler plus finement leur apparence dans les vues</i>
+      
+      pzWm37vKATk:
+        - Placement de ressources dynamiques dans un projet Revit
+      
+      jPb6pdsT6xI:
+        - Configurer un objet personnalisé en tant qu'objet ressource Enscape
+
+  
+    Environnement:
+      x86JpZXp4u4:
+        - Corriger l'apparence de l'herbe
+        - Télécharger des matériaux et skybox gratuitement
+        - Télécharger et importer des profils d'éclairages artificiels
+    
+  
+  Propriétés de rendu:
+    Paramétrage visuel:
+      sHMZcw9xdoQ:
+        - Réglage des paramètres visuels de base
+        - Changement de mode de rendu (réaliste, blanc, etc.)
+        - Réglages basiques de la caméra (exposition, champ de vision, profondeur de champ, etc.)
+
+    Eclairage:
+      lQ6JsOzW-x8:
+        - Réglage des paramètres d'éclairage naturel réels en extérieur
+        - Remplacer le soleil par une skybox personnalisée (ciel et horizon)
+        - Ajout d'éclairages artificiels via des ressources Enscape (lampes,etc..)
+        - Ajout d'éclairages artificiels via des familles d'équipement Revit
+        - Ajout d'éclairages artificiels via des matériaux auto-éclairants
+
+  Rendu et export:
+    Image:
+      --Y8gMW8ZvA:
+        - Exporter un point de vue en tant qu'image
+        - Régler la résolution et le ratio
+        - Prévisualiser le cadrage
+        - Export du canal alpha et des masques d'objets en tant qu'images complémentaires pour du post-processing dans Photoshop
+        
+    Vidéo:
+      pgih6_9g1uQ:
+        - Générer des animations dans Enscape
+        - Création et configuration de keyframes (images clés)
+        - Réglage du point de vue et de l'horaire d'une keyframe
+        - Réglage de la vitesse de la caméra
